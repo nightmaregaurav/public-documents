@@ -1,0 +1,146 @@
+Gaurav Nyaupane
+
+Email: mail.gauravnyaupane@gmail.com
+Phone: +977 9816928313
+Website: https://www.gauravnyaupane.com.np
+GitHub: https://github.com/nightmaregaurav
+LinkedIn: https://www.linkedin.com/in/nightmaregaurav/
+
+------------------------------------------------------------------------
+
+Professional Summary
+
+Software engineer with extensive experience in full-stack development,
+computer vision applications, and scalable real-time systems. Skilled in
+developing applied AI solutions, resource-efficient ML, and
+healthcare-related technologies. Strong background in C#/.NET, React,
+Python, and cloud-based software development. Passionate about
+technology for social good and improving user-centric digital
+experiences.
+
+------------------------------------------------------------------------
+
+Education
+
+Tribhuvan University, Mechi Multiple Campus, Nepal
+Bachelor of Computer Applications (BCA), 2017 – 2022
+CGPA: 3.66 / 4.00
+
+Singhadevi Secondary School, Damak, Nepal
+High School, Majors: Computer Science, Business Mathematics, 2015 – 2017
+
+------------------------------------------------------------------------
+
+Professional Experience
+
+PlanCare, Perth via Tekkon Technologies, Kathmandu
+Senior Software Engineer, Oct 2023 – Present
+
+-   Led migration of legacy Angular system to React using a
+    micro-frontend architecture.
+-   Developed and deployed 60+ new features for Caretaskr platform
+    serving 1,500+ users.
+-   Architected PlanCare Portal mobile app using React Native.
+-   Enhanced system performance by 35% through backend and frontend
+    optimizations.
+-   Implemented over 250 unit tests to increase code reliability.
+
+Premium Technologies, Kathmandu
+Full Stack Developer, Dec 2022 – Sep 2023
+
+-   Developed NotificationHub, a real-time notification system for
+    multiple platforms.
+-   Built custom Identity Server for secure authentication and
+    authorization.
+-   Improved Core Banking System and developed Loan Management System,
+    reducing manual processing time by 40%.
+
+Crystal Solution, Jhapa
+Software Developer / Team Lead, Jan 2022 – Jul 2022
+
+-   Led team to build a conference management system for 1,000+
+    participants.
+-   Migrated legacy data access layers to ORM-based architecture for
+    improved performance.
+-   Ensured high-quality code via unit and integration tests with 90%
+    coverage.
+
+Mechi Multiple Campus, Tribhuvan University
+Software Development Intern, Mar 2021 – Jun 2021
+
+-   Developed OpenCV-based automated attendance system.
+-   Contributed to Education Management Information System for 1,000+
+    students.
+
+------------------------------------------------------------------------
+
+Projects
+
+-   Third Eye: Digital platform for managing medical histories.
+-   Family Tree: Computerized system for visualizing and managing
+    ancestral lineage.
+-   ERealEstate: Online real estate auction platform with real-time
+    bidding.
+-   RelayHub: Real-time event broadcasting gateway bridging HTTP and
+    WebSocket clients.
+-   Glide: Portable OCR-to-Braille assistive device concept.
+-   Bubble Sheet Evaluator: Automated grading using optical mark
+    recognition.
+-   Result Extractor: TU BCA entrance result processing tool.
+-   Other open-source projects: CMS for static websites, shared expense
+    manager, Swagger endpoints generator, IndexORM, and more.
+
+------------------------------------------------------------------------
+
+Technical Skills
+
+Languages: C#, Python, JavaScript, TypeScript
+Frameworks/Libraries: ASP.NET Core, React, Django, OpenCV, NumPy
+Tools & Platforms: Docker, Git, Azure DevOps, GitHub Actions, Linux
+Databases: PostgreSQL, MySQL, MS SQL Server, Redis
+
+------------------------------------------------------------------------
+
+Awards & Honors
+
+-   Best Communicator, Tekkon Technologies (2025)
+-   Academic Excellence Awards, BCA (Multiple Semesters)
+-   50% Tuition Fee Waiver, Tribhuvan University (2018)
+-   Winner, Regional Science Exhibition, Jhapa
+
+------------------------------------------------------------------------
+
+Teaching & Mentoring Experience
+
+-   Facilitated lab sessions for undergraduate computer science courses
+    multiple times.
+-   Mentored a group of 2 classmates on course project and associated
+    theses, providing guidance on methodology, coding, and
+    documentation.
+-   Delivered more than 5 in-class presentations as part of ongoing
+    lectures, teaching course topics to peers under faculty supervision.
+-   Assisted a faculty member in reviewing and providing feedback on
+    initial project proposals from 4th-semester students, leveraging
+    expertise gained as a senior (8th-semester) student.
+-   Organized One-week Programming Bootcamp for high school students
+
+Community Engagement
+
+-   Co-founder, BCA Tribhuvan University Facebook community
+-   Founding Member, BCA Student Association, Mechi Multiple Campus
+-   Host, Sports week organized by BCA Student Association
+-   Volunteer, Nepal Red Cross Society blood donation campaigns
+
+------------------------------------------------------------------------
+
+Languages
+
+-   Nepali (Native)
+-   English (Professional, IELTS 7.5)
+-   Hindi (Fluent)
+
+------------------------------------------------------------------------
+
+References
+
+Available upon request.
