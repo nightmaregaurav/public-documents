@@ -49,5 +49,3 @@ jobs:
           find . -type f \( -name "*.pdf" -o -name "*.docx" -o -name "*.txt" -o -name "*.tex" \) -exec git add {} +
           git diff --cached --quiet || git commit -m "Auto-generate TEX, PDF, DOCX, TXT from Markdown"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
