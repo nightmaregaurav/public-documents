@@ -6,8 +6,6 @@ Website: https://www.gauravnyaupane.com.np
 GitHub: https://github.com/nightmaregaurav
 LinkedIn: https://www.linkedin.com/in/nightmaregaurav/
 
-------------------------------------------------------------------------
-
 Professional Summary
 
 Software engineer with extensive experience in full-stack development,
@@ -18,8 +16,6 @@ Python, and cloud-based software development. Passionate about
 technology for social good and improving user-centric digital
 experiences.
 
-------------------------------------------------------------------------
-
 Education
 
 Tribhuvan University, Mechi Multiple Campus, Nepal
@@ -28,8 +24,6 @@ CGPA: 3.66 / 4.00
 
 Singhadevi Secondary School, Damak, Nepal
 High School, Majors: Computer Science, Business Mathematics, 2015 – 2017
-
-------------------------------------------------------------------------
 
 Professional Experience
 
@@ -72,8 +66,6 @@ Software Development Intern, Mar 2021 – Jun 2021
 -   Contributed to Education Management Information System for 1,000+
     students.
 
-------------------------------------------------------------------------
-
 Projects
 
 -   Third Eye: Digital platform for managing medical histories.
@@ -90,8 +82,6 @@ Projects
 -   Other open-source projects: CMS for static websites, shared expense
     manager, Swagger endpoints generator, IndexORM, and more.
 
-------------------------------------------------------------------------
-
 Technical Skills
 
 Languages: C#, Python, JavaScript, TypeScript
@@ -99,16 +89,12 @@ Frameworks/Libraries: ASP.NET Core, React, Django, OpenCV, NumPy
 Tools & Platforms: Docker, Git, Azure DevOps, GitHub Actions, Linux
 Databases: PostgreSQL, MySQL, MS SQL Server, Redis
 
-------------------------------------------------------------------------
-
 Awards & Honors
 
 -   Best Communicator, Tekkon Technologies (2025)
 -   Academic Excellence Awards, BCA (Multiple Semesters)
 -   50% Tuition Fee Waiver, Tribhuvan University (2018)
 -   Winner, Regional Science Exhibition, Jhapa
-
-------------------------------------------------------------------------
 
 Teaching & Mentoring Experience
 
@@ -131,15 +117,11 @@ Community Engagement
 -   Host, Sports week organized by BCA Student Association
 -   Volunteer, Nepal Red Cross Society blood donation campaigns
 
-------------------------------------------------------------------------
-
 Languages
 
 -   Nepali (Native)
 -   English (Professional, IELTS 7.5)
 -   Hindi (Fluent)
-
-------------------------------------------------------------------------
 
 References
 

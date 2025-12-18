@@ -6,8 +6,6 @@ Website: https://www.gauravnyaupane.com.np
 GitHub: https://github.com/nightmaregaurav
 LinkedIn: https://www.linkedin.com/in/nightmaregaurav/
 
-------------------------------------------------------------------------
-
 Research Interests
 
 -   Computer Vision for real-world and low-resource settings
@@ -15,8 +13,6 @@ Research Interests
 -   Medical data systems and assistive technologies
 -   Real-time systems and scalable software architectures
 -   Resource-efficient ML systems
-
-------------------------------------------------------------------------
 
 Education
 
@@ -27,8 +23,6 @@ CGPA: 3.66 / 4.00 (Top-ranked student across multiple semesters)
 Major Academic Projects: - Family Tree: Computerized Ancestral Lineage
 Management System (Capstone Project) - ERealEstate: Online Real Estate
 Auction System - Third Eye: Digital Medical History Management Platform
-
-------------------------------------------------------------------------
 
 Publications and Technical Reports
 
@@ -68,8 +62,6 @@ Automating Bubble Sheet Grading with Bubble Sheet Evaluator
 Extended abstract and prototype software, unpublished.
 Applied image processing and optical mark recognition techniques to
 automate grading workflows in educational institutions.
-
-------------------------------------------------------------------------
 
 Professional Experience
 
@@ -118,8 +110,6 @@ Software Development Intern, Mar 2021 – Jun 2021
 -   Contributed to the development of an Education Management
     Information System serving over 1,000 students.
 
-------------------------------------------------------------------------
-
 Technical Skills
 
 Programming Languages: C#, Python, JavaScript, TypeScript
@@ -127,8 +117,6 @@ Frameworks and Libraries: ASP.NET Core, React, Django, NumPy (working
 knowledge), OpenCV
 Systems and Tools: Docker, Git, Azure DevOps, GitHub Actions, Linux
 Databases: PostgreSQL, MySQL, MS SQL Server, Redis
-
-------------------------------------------------------------------------
 
 Awards and Honors
 
@@ -138,8 +126,6 @@ Awards and Honors
     (2018)
 -   Winner, Regional Science Exhibition, District Education Office,
     Jhapa
-
-------------------------------------------------------------------------
 
 Teaching & Mentoring Experience
 
@@ -162,15 +148,11 @@ Community Engagement
 -   Host, Sports week organized by BCA Student Association
 -   Volunteer, Nepal Red Cross Society blood donation campaigns
 
-------------------------------------------------------------------------
-
 Languages
 
 -   Nepali (Native)
 -   English (Professional proficiency, IELTS 7.5)
 -   Hindi (Fluent)
-
-------------------------------------------------------------------------
 
 References
 
