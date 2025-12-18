@@ -10,6 +10,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: ${{ github.ref }} # Ensures that workflows on the same branch will be part of the same group
+  cancel-in-progress: true # Cancels any running workflow for that group (branch) if a new one starts
+
 jobs:
   convert:
     runs-on: ubuntu-latest
