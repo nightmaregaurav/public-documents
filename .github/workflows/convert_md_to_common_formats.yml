@@ -37,9 +37,9 @@ jobs:
             if [[ "$(basename "$file")" != "README.md" ]]; then
               base="${file%.md}"
               # Convert to TEX
-              pandoc "$file" -o "${base}.tex" -V geometry:a4paper
+              pandoc "$file" -o "${base}.tex" -V papersize:a4 -V geometry:top=2cm,left=2.5cm,right=2.5cm,bottom=2cm
               # Convert to PDF
-              pandoc "$file" -o "${base}.pdf" --pdf-engine=xelatex -V geometry:a4paper
+              pandoc "$file" -o "${base}.pdf" --pdf-engine=xelatex -V papersize:a4 -V geometry:top=2cm,left=2.5cm,right=2.5cm,bottom=2cm
               # Convert to DOCX
               pandoc "$file" -o "${base}.docx"
               # Convert to plain TXT
