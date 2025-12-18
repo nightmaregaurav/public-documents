@@ -6,7 +6,6 @@
 **GitHub:** [https://github.com/nightmaregaurav](https://github.com/nightmaregaurav)  \
 **LinkedIn:** [https://www.linkedin.com/in/nightmaregaurav/](https://www.linkedin.com/in/nightmaregaurav/)
 
----
 
 ## **Research Interests**
 
@@ -16,7 +15,6 @@
 - Real-time systems and scalable software architectures
 - Resource-efficient ML systems
 
----
 
 ## **Education**
 
@@ -29,7 +27,6 @@ Major Academic Projects:
 - *ERealEstate:* Online Real Estate Auction System
 - *Third Eye:* Digital Medical History Management Platform
 
----
 
 ## **Publications and Technical Reports**
 
@@ -57,7 +54,6 @@ Implemented a web-based real estate auction platform with real-time bidding, foc
 *Extended abstract and prototype software, unpublished.*  \
 Applied image processing and optical mark recognition techniques to automate grading workflows in educational institutions.
 
----
 
 ## **Professional Experience**
 
@@ -91,7 +87,6 @@ Applied image processing and optical mark recognition techniques to automate gra
 - Developed an automated attendance system using OpenCV-based face recognition.
 - Contributed to the development of an Education Management Information System serving over 1,000 students.
 
----
 
 ## **Technical Skills**
 
@@ -100,7 +95,6 @@ Applied image processing and optical mark recognition techniques to automate gra
 **Systems and Tools:** Docker, Git, Azure DevOps, GitHub Actions, Linux  \
 **Databases:** PostgreSQL, MySQL, MS SQL Server, Redis
 
----
 
 ## **Awards and Honors**
 
@@ -109,7 +103,6 @@ Applied image processing and optical mark recognition techniques to automate gra
 - 50 percent Tuition Fee Waiver Scholarship, Tribhuvan University (2018)
 - Winner, Regional Science Exhibition, District Education Office, Jhapa
 
----
 
 ## **Teaching & Mentoring Experience**
 
@@ -119,6 +112,7 @@ Applied image processing and optical mark recognition techniques to automate gra
 - Assisted a faculty member in reviewing and providing feedback on initial project proposals from 4th-semester students, leveraging expertise gained as a senior (8th-semester) student.
 - Organized One-week Programming Bootcamp for high school students
 
+
 ## **Community Engagement**
 
 - Co-founder, BCA Tribhuvan University Facebook community
@@ -126,7 +120,6 @@ Applied image processing and optical mark recognition techniques to automate gra
 - Host, Sports week organized by BCA Student Association
 - Volunteer, Nepal Red Cross Society blood donation campaigns
 
----
 
 ## **Languages**
 
@@ -134,7 +127,6 @@ Applied image processing and optical mark recognition techniques to automate gra
 - English (Professional proficiency, IELTS 7.5)
 - Hindi (Fluent)
 
----
 
 ## **References**
 
