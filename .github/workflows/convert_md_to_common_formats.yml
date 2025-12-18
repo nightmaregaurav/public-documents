@@ -1,4 +1,4 @@
-name: Convert Markdown to PDF, DOCX, TXT
+name: Convert Markdown to TEX, PDF, DOCX, TXT
 
 on:
   push:
