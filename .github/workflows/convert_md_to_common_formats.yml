@@ -46,8 +46,6 @@ jobs:
 
       - name: Commit and push generated files
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           find . -type f \( -name "*.pdf" -o -name "*.docx" -o -name "*.txt" -o -name "*.tex" \) -exec git add {} +
           git diff --cached --quiet || git commit -m "Auto-generate TEX, PDF, DOCX, TXT from Markdown"
           git push
