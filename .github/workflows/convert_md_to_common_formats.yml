@@ -5,6 +5,7 @@ on:
     paths:
       - "**/*.md"
       - "!**/README.md"
+  workflow_dispatch: # Allows manual triggering
 
 jobs:
   convert:
