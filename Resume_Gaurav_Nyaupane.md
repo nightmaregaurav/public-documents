@@ -6,13 +6,11 @@
 **GitHub:** [https://github.com/nightmaregaurav](https://github.com/nightmaregaurav)  \
 **LinkedIn:** [https://www.linkedin.com/in/nightmaregaurav/](https://www.linkedin.com/in/nightmaregaurav/)
 
----
 
 ## **Professional Summary**
 
 Software engineer with extensive experience in full-stack development, computer vision applications, and scalable real-time systems. Skilled in developing applied AI solutions, resource-efficient ML, and healthcare-related technologies. Strong background in C#/.NET, React, Python, and cloud-based software development. Passionate about technology for social good and improving user-centric digital experiences.
 
----
 
 ## **Education**
 
@@ -23,7 +21,6 @@ CGPA: 3.66 / 4.00
 **Singhadevi Secondary School, Damak, Nepal**  \
 High School, Majors: Computer Science, Business Mathematics, 2015 – 2017
 
----
 
 ## **Professional Experience**
 
@@ -56,7 +53,6 @@ High School, Majors: Computer Science, Business Mathematics, 2015 – 2017
 - Developed OpenCV-based automated attendance system.
 - Contributed to Education Management Information System for 1,000+ students.
 
----
 
 ## **Projects**
 
@@ -69,7 +65,6 @@ High School, Majors: Computer Science, Business Mathematics, 2015 – 2017
 - **Result Extractor:** TU BCA entrance result processing tool.
 - **Other open-source projects:** CMS for static websites, shared expense manager, Swagger endpoints generator, IndexORM, and more.
 
----
 
 ## **Technical Skills**
 
@@ -78,7 +73,6 @@ High School, Majors: Computer Science, Business Mathematics, 2015 – 2017
 **Tools & Platforms:** Docker, Git, Azure DevOps, GitHub Actions, Linux  \
 **Databases:** PostgreSQL, MySQL, MS SQL Server, Redis
 
----
 
 ## **Awards & Honors**
 
@@ -87,7 +81,6 @@ High School, Majors: Computer Science, Business Mathematics, 2015 – 2017
 - 50% Tuition Fee Waiver, Tribhuvan University (2018)
 - Winner, Regional Science Exhibition, Jhapa
 
----
 
 ## **Teaching & Mentoring Experience**
 
@@ -97,6 +90,7 @@ High School, Majors: Computer Science, Business Mathematics, 2015 – 2017
 - Assisted a faculty member in reviewing and providing feedback on initial project proposals from 4th-semester students, leveraging expertise gained as a senior (8th-semester) student.
 - Organized One-week Programming Bootcamp for high school students
 
+
 ## **Community Engagement**
 
 - Co-founder, BCA Tribhuvan University Facebook community
@@ -104,7 +98,6 @@ High School, Majors: Computer Science, Business Mathematics, 2015 – 2017
 - Host, Sports week organized by BCA Student Association
 - Volunteer, Nepal Red Cross Society blood donation campaigns
 
----
 
 ## **Languages**
 
@@ -112,7 +105,6 @@ High School, Majors: Computer Science, Business Mathematics, 2015 – 2017
 - English (Professional, IELTS 7.5)
 - Hindi (Fluent)
 
----
 
 ## **References**
 
