@@ -1,0 +1,47 @@
+name: Convert Markdown to PDF, DOCX, TXT
+
+on:
+  push:
+    paths:
+      - "**/*.md"
+      - "!**/README.md"
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended
+
+      - name: Convert Markdown files
+        run: |
+          shopt -s globstar
+          for file in **/*.md; do
+            if [[ "$(basename "$file")" != "README.md" ]]; then
+              base="${file%.md}"
+              # Generate intermediate LaTeX
+              pandoc "$file" -o "${base}.tex" -V geometry:a4paper
+              # Generate PDF from LaTeX
+              pdflatex -interaction=nonstopmode -halt-on-error "${base}.tex"
+              # Convert to DOCX
+              pandoc "$file" -o "${base}.docx"
+              # Convert to plain TXT
+              pandoc "$file" -t plain -o "${base}.txt"
+            fi
+          done
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add **/*.pdf **/*.docx **/*.txt **/*.tex
+          git diff --cached --quiet || git commit -m "Auto-generate TEX, PDF, DOCX, TXT from Markdown"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
