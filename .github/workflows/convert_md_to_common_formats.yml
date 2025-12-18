@@ -25,10 +25,10 @@ jobs:
           for file in **/*.md; do
             if [[ "$(basename "$file")" != "README.md" ]]; then
               base="${file%.md}"
-              # Generate intermediate LaTeX
+              # Convert to TEX
               pandoc "$file" -o "${base}.tex" -V geometry:a4paper
-              # Generate PDF from LaTeX
-              pdflatex -interaction=nonstopmode -halt-on-error "${base}.tex"
+              # Convert to PDF
+              pandoc "$file" -o "${base}.pdf" --pdf-engine=xelatex -V geometry:a4paper
               # Convert to DOCX
               pandoc "$file" -o "${base}.docx"
               # Convert to plain TXT
