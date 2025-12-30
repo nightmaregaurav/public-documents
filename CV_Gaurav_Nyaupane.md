@@ -23,9 +23,10 @@
 CGPA: **3.66 / 4.00** (Top-ranked student across multiple semesters)
 
 Major Academic Projects:
-- **Family Tree:** Computerized Ancestral Lineage Management System (Capstone Project)
-- **ERealEstate:** Online Real Estate Auction System
-- **Third Eye:** Digital Medical History Management Platform
+
+- *Family Tree:* Computerized Ancestral Lineage Management System (Capstone Project)
+- *ERealEstate:* Online Real Estate Auction System
+- *Third Eye:* Digital Medical History Management Platform
 
 
 ## **Publications and Technical Reports**
