@@ -73,16 +73,18 @@ Senior Software Engineer, Oct 2023 – Present
 
 -   Contributed to the development and maintenance of Caretaskr, a
     healthcare platform serving 1,500+ users across Australia.
+-   Worked with the team lead and stakeholders to architect CareTaskr2.
 -   Led the architectural transition from Angular to React using a
     micro-frontend strategy, enabling incremental modernization without
     system downtime.
 -   Developed and deployed 60+ production features and enhancements
     based on direct operational feedback.
+-   Developed and deployed 100+ new features for Caretaskr2.
 -   Initiated and architected the PlanCare Portal mobile application
     using React Native.
--   Improved platform performance by approximately 35 percent through
-    backend and frontend optimizations.
--   Designed and implemented over 250 unit tests, substantially
+-   Improved Caretaskr’s platform performance by approximately 35
+    percent through backend and frontend optimizations.
+-   Designed and implemented over 1000 unit tests, substantially
     increasing code reliability and maintainability.
 
 Premium Technologies, Kathmandu

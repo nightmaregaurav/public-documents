@@ -32,12 +32,15 @@ Senior Software Engineer, Oct 2023 – Present
 
 -   Led migration of legacy Angular system to React using a
     micro-frontend architecture.
+-   Worked with the team lead and stakeholders to architect CareTaskr2.
 -   Developed and deployed 60+ new features for Caretaskr platform
     serving 1,500+ users.
--   Architected PlanCare Portal mobile app using React Native.
--   Enhanced system performance by 35% through backend and frontend
+-   Developed and deployed 100+ new features for Caretaskr2.
+-   Led the initial design and development of PlanCare Portal mobile app
+    using React Native.
+-   Enhanced Caretaskr’s performance by 35% through backend and frontend
     optimizations.
--   Implemented over 250 unit tests to increase code reliability.
+-   Implemented over 1000 unit tests to increase code reliability.
 
 Premium Technologies, Kathmandu
 Full Stack Developer, Dec 2022 – Sep 2023
